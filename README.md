@@ -3,7 +3,6 @@ CSVforPHP
 
 A very easy PHP class for parsing CSVs
 
-# Usage
+## Usage (returns array of CSV data)
 
-// return array of CSV data
 $csv = CSV::parse("my.csv");
